@@ -6,7 +6,7 @@
 #endif
 
 cCCCCCcccccCc {
-    #ifdef _WIN32
+    #ifdef CCccccCCCCccc
     cCCCCccCCCCcC;
     #endif
     CcCCCC << "====== ++C 计算圆周率 ======" << CCCCcc;
